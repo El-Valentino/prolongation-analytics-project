@@ -1,3 +1,4 @@
+<img width="1620" height="803" alt="Снимок экрана 2026-05-02 224614" src="https://github.com/user-attachments/assets/6d46fa6c-cbd5-45e0-8eac-177dca17ce25" />
 # prolongation-analytics-project
 Автоматизация расчета пролонгаций (Python + Pandas) и BI-дашборд в DataLens
 
@@ -9,7 +10,7 @@
 * **Интерактивный дашборд:** [ДАШБОРД В DATALENS](https://datalens.ru/hse6dh28j94m1)
 * **Автоматизированный отчет:** Сгенерированный Excel-файл с расчетами по каждому менеджеру.
 
-![Дашборд](dashboard.png)
+![Дашборд](<img width="1620" height="803" alt="Снимок экрана 2026-05-02 224614" src="https://github.com/user-attachments/assets/6d46fa6c-cbd5-45e0-8eac-177dca17ce25" />)
 
 ## 🏗 Архитектура решения
 Вместо классического ведения тяжелых таблиц реализован современный аналитический пайплайн:
