@@ -32,8 +32,7 @@
 * **Интерактивный дашборд:** [ДАШБОРД В DATALENS](https://datalens.ru/hse6dh28j94m1)
 * **Автоматизированный отчет:** Сгенерированный `.xlsx` файл с готовыми расчетами по каждому менеджеру.
 
-![Скриншот дашборда](<img width="1620" height="803" alt="image" src="https://github.com/user-attachments/assets/4416d928-654c-4d76-bd53-9e0badf2da9c" />
-)
+![Скриншот дашборд](https://github.com/user-attachments/assets/6d46fa6c-cbd5-45e0-8eac-177dca17ce25)
 
 ## 🏗 Архитектура решения и пайплайн работы с данными
 
